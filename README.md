@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<zelin zeng>`
-- **CCID:** `<zelin11>`
+- **Full Name:** `Zelin Zeng`
+- **CCID:** `zelin11`
 
 ## References and Resources
 
